@@ -1,6 +1,9 @@
 /*---------------------------------
       main atrributes or utilities
  ------------------------------------*/
+ body{
+   background-color: #dda0dd;
+ }
  .margin-border-cover{
     padding: 0;
     nav-right: 0;
